@@ -1,0 +1,15 @@
+L001,Mathematics,Mr Ahmed,R101,1,Monday
+L002,English,Ms Taylor,R205,2,Monday
+L003,Physics,Dr Khan,R103,3,Monday
+L004,Computer Science,Mr Ahmed,R204,4,Monday
+L005,Chemistry,Mrs Farooq,R103,1,Tuesday
+L006,Biology,Ms Taylor,R106,2,Tuesday
+L007,History,Mr Saeed,R201,3,Wednesday
+L008,Mathematics,Mr Ahmed,R101,1,Wednesday
+L009,Geography,Mrs Farooq,R202,2,Wednesday
+L010,Art,Ms Begum,R101,1,Monday
+L011,English,Ms Taylor,R205,4,Thursday
+L012,Physics,Dr Khan,R103,2,Thursday
+L013,Computer Science,Mr Ahmed,R204,3,Friday
+L014,Chemistry,Mrs Farooq,R103,1,Friday
+L015,Music,Mr Saeed,R301,5,Monday

@@ -1,0 +1,3 @@
+STACKS:
+
+2023 WINTER QP 42 9618 Question 1
